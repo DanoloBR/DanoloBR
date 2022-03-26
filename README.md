@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DanoloBR
-- 👀 I’m interested in lern.
-- 🌱 I’m currently learning computer science and others things.
-- 💞️ I’m looking to collaborate on CS50
-- 📫 How to reach me By discord DanoloBR2#5101
+- 👋 Oi, oi sou @DanoloBR
+- 👀 Muito interesado em provurar respostas
+- 🌱 Aprendendo muito
+- 💞️ Estudando tambem no curso de Programação de Java
+- 📫 Pode conversar comigo pelo discord como[> DanoloBR2#5101
 
 <!---
 DanoloBR/DanoloBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
