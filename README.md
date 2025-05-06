@@ -1,3 +1,3 @@
 - 👋 Oi, oi sou @DanoloBR - Daniel Simonetti Rodrigues
 - 🌱 Aprendendo muito e brotando nesse mundo
-- 📫 Pode conversar comigo pelo discord como[> DanoloBR2#5101
+- 📫 Pode conversar comigo pelo discord como: DanoloBR2#5101
